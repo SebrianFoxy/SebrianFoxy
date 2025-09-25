@@ -12,16 +12,16 @@
 
 ### 🛠️ Мой технологический стек
 
-**Backend & Системы:**
+**Backend & Системы:**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-**Мобильная/Desktop разработка:**
+**Мобильная/Desktop разработка:**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Базы данных и инструменты:**
+**Базы данных и инструменты:**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -46,11 +46,6 @@
 
 ---
 
-### 📫 Как со мной связаться?
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/SebrianFoxy)
-[![VK](https://img.shields.io/badge/ВКонтакте-0077FF?style=for-the-badge&logo=VK&logoColor=white)](https://vk.com/your_page)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
 *Спасибо, что заглянули! Хорошего дня! ✨*
 
